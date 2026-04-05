@@ -1,0 +1,3 @@
+beautifulsoup4>=4.12.0
+mrjob>=0.7.4
+requests>=2.31.0
