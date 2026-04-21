@@ -252,3 +252,5 @@ python dedublication/run_dedup.py
 - **requests** — HTTP-запросы
 - **Алгоритм Левенштейна** — нечёткое сравнение строк
 - **Sorted Neighborhood** — эффективная блокировка при дедупликации
+
+ПРоверка codex
